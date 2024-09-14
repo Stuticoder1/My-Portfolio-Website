@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Python Developer",
+      "organisation": "Google",
+      "startDate": "May, 2023",
+      "endDate": "July,2023",
+      "experiences": ["Worked on Python games", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Community Increaser",
+      "organisation": "Devtown",
+      "startDate": "Aug, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Worked on increasing the community", "Promoted the new launches of Devtown"],
+      "imageSrc": "history/devtown.png"
+    },
+    {
+      "role": "Web Developer",
+      "organisation": "Internshala",
+      "startDate": "May, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": [
+        "Worked on component library",
+        "Helped create responsive websites"
+      ],
+      "imageSrc": "history/internshala.png"
+    }
+  ]
